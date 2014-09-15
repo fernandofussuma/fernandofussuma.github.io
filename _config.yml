@@ -1,6 +1,6 @@
 timezone: America/Sao_Paulo
 
-exclude: [Gemfile, Gemfile.lock, LICENSE.md]
+exclude: [Gemfile, Gemfile.lock, LICENSE.md, README.md]
 
 permalink: "/:title"
 
