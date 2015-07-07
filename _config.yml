@@ -14,13 +14,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "post"
+      type: "posts"
     values:
-      layout: "post"
+      layout: "posts"
 
 kramdown:
   input: GFM
 
-highlighter: rouge
+highlighter: pygments
 
 gems: [jemoji]
